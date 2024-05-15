@@ -1,0 +1,22 @@
+{
+  "name": "first-node-proyect",
+  "version": "0.0.1",
+  "description": "'This is my first node project fueguito*'",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "",
+    "dev": ""
+  },
+  "keywords": [
+    "node",
+    "learn",
+    "js",
+    "firstAttempt"
+  ],
+  "author": "HugolozanoSQ9",
+  "license": "ISC",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
